@@ -1,0 +1,47 @@
+[33mcommit 042b5219048cfbdf720b48bcdd72f5d4f43674af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Wed Oct 12 15:40:16 2022 +0300
+
+    modified signup section (container and modal) to fit properly
+
+[33mcommit fe9f8ccb20103e1e8f1f3d6d78aa9cf5589e7e78[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Wed Oct 12 15:22:28 2022 +0300
+
+    now every container uses it's own modal
+
+[33mcommit 9ce1fcf64d444c21c6a564c64f937f53c96dbdc1[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Wed Oct 12 12:31:06 2022 +0300
+
+    added modals (instead of using containers everywhere); edited start, info and quote sections layout
+
+[33mcommit b760839261b2e72b302d45e0933d675fc5d079ee[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Tue Oct 11 19:00:22 2022 +0300
+
+    edited the main layout (margins, gaps, etc. not included)
+
+[33mcommit 5770e17dc1c4a8e30120148283a731ddad592dcd[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Mon Oct 10 20:51:25 2022 +0300
+
+    creted file styles.css file includes fonts and colors
+
+[33mcommit d717dde71ecbd38e44e0fe5bd443ffeab2979598[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Mon Oct 10 18:31:31 2022 +0300
+
+    created a draft of the website's html file
+
+[33mcommit f4980e937204288b88665b0d5b552292ccfa1337[m
+Author: talhagedikli <talhagedikli@protonmail.com>
+Date:   Sun Oct 9 18:53:06 2022 +0300
+
+    created an environment
+
+[33mcommit 1063013808279fc5ab1315297a6165a6155d3967[m
+Author: northerner <60178670+talhagedikli@users.noreply.github.com>
+Date:   Sun Oct 9 18:46:51 2022 +0300
+
+    Initial commit

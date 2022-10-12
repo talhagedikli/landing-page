@@ -18,8 +18,11 @@ ul {
 button {
     color: #3882F6;
     width: fit-content;
-    height: fit-content;
+    height: min-content;
+    display: flex;
+    flex-direction: row;
 }
+
 
 
 img.start {
@@ -139,6 +142,7 @@ a {
     flex-direction: column;
     align-items: center;
     padding: 64px;
+    gap: 32px;
 }
 
 .container.card {
@@ -181,6 +185,7 @@ a {
 
 .modal.start {
     flex-direction: column;
+    gap: 8px;
 }
 
 /* footer class */
